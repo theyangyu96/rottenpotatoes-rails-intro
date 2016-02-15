@@ -3,11 +3,7 @@ table#movies th.hilite {
   background-color: yellow;
 }
 
-title_header:active { 
-   background-color: yellow;
-}
-
-release_date_header:active {
+a:active {
   background-color: yellow;
 }
 
