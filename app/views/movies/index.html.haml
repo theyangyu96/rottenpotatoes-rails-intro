@@ -4,7 +4,7 @@
 %table#movies
   %thead
     %tr
-      %th{:class => ("hilite"if sorted == "pages")} <a href="/movies?sorted=title" id = "title_header">Movie Title</a>
+      %th{:class => ("hilite" ? sorted : "pages")} <a href="/movies?sorted=title" id = "title_header">Movie Title</a>
       %th Rating
       %th{:id => "release_date_header1"} <a href="/movies?sorted=date" id = "release_date_header">Release Date</a>
       %th More Info
