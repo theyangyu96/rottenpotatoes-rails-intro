@@ -17,6 +17,14 @@ class MoviesController < ApplicationController
   def new
     # default: render 'new' template
   end
+  
+  def sorted_by_date
+      flash[:notice] = "hello world"
+  end
+  
+  def sorted_by_date
+      
+  end
 
   def create
     @movie = Movie.create!(movie_params)
