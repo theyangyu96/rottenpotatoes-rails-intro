@@ -22,8 +22,8 @@ class MoviesController < ApplicationController
       flash[:notice] = "hello world"
   end
   
-  def sorted_by_date
-      
+  def sorted_by_title
+      flash[:notice] = "hello world"
   end
 
   def create
