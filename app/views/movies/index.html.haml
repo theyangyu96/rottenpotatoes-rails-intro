@@ -4,9 +4,9 @@
 %table#movies
   %thead
     %tr
-      %th{:id => "title_header"} <a href="/movies?sorted=title" id = "title_header">Movie Title</a>
+      %th{:id => "title_header1"} <a href="/movies?sorted=title" id = "title_header">Movie Title</a>
       %th Rating
-      %th{:id => "release_date_header"} <a href="/movies?sorted=date" id = "release_date_header">Release Date</a>
+      %th{:id => "release_date_header1"} <a href="/movies?sorted=date" id = "release_date_header">Release Date</a>
       %th More Info
   %tbody
     - @movies.each do |movie|
