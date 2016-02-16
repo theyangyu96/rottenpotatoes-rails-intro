@@ -1,0 +1,209 @@
+[33mcommit f3c188ba70aa238ac69d6b19fe517c22dcf1f76a[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Tue Feb 16 01:04:41 2016 +0000
+
+    hw 2 part 3 complete
+
+[33mcommit c40621d99969ee3ee35ddab8805dff407f682e14[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Tue Feb 16 00:57:55 2016 +0000
+
+    hw 2 part 3 complete
+
+[33mcommit 4d4db449157f74efc8623542236af49c13a1741c[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Tue Feb 16 00:16:31 2016 +0000
+
+    finished part 2
+
+[33mcommit 850c0cc503f5bfecdcc2cbfe4735cb0f2d800cb0[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 22:34:48 2016 +0000
+
+    hilite change
+
+[33mcommit a46db5758af148b6d01370e7757da4a4e6c3bf22[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 22:33:31 2016 +0000
+
+    hilite change
+
+[33mcommit 5dafbc311fa12c7fa70c4acce00525a6f933c6c3[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 22:24:14 2016 +0000
+
+    >
+
+[33mcommit 45177d54cd902be15b34ef5eb64f08a5fc3f986a[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 22:22:04 2016 +0000
+
+    >
+
+[33mcommit 5732c3f25408d93caf2a1bb88bbd7875f3de683f[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 22:19:45 2016 +0000
+
+    >
+
+[33mcommit 6dbd6ef2d321c3bb9a94408fba9afdf8b4032472[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 22:16:15 2016 +0000
+
+    >
+
+[33mcommit 4dcbf720df616c42dbb8810e81e885c7e01a5657[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 22:14:48 2016 +0000
+
+    hilite?
+
+[33mcommit 3e4732beb2282b3ff3040143fabe37cb0747a84a[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 22:10:55 2016 +0000
+
+    hilite?
+
+[33mcommit 2f7259d8d9de22458b98dfd2c31a186b81cd03a3[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 22:09:57 2016 +0000
+
+    hilite?
+
+[33mcommit 819a9fce9acb50ca55caecbd142a237dcfda2e64[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 22:02:14 2016 +0000
+
+    hilite
+
+[33mcommit de55abac5797b38f9be4b3730f471bea629cbd51[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 21:54:40 2016 +0000
+
+    hmm
+
+[33mcommit d91e4ada0775a208a87835b4f2320dfe98da5bb6[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 21:49:31 2016 +0000
+
+    fixed routes
+
+[33mcommit c213803d62abcdd9c20db833b3697b73f98dd6af[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 21:47:56 2016 +0000
+
+    changed the url and index controller
+
+[33mcommit a347c7f202ac1aaf96c53736591bce83b47ed7d9[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 21:29:40 2016 +0000
+
+    removed haml
+
+[33mcommit 489f73da54614f8f4de1015c9425553a8291e9ea[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 21:26:23 2016 +0000
+
+    lmao
+
+[33mcommit 25d4efea007cdcb58385cbc6213e71ae3a18786f[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 21:09:59 2016 +0000
+
+    test
+
+[33mcommit 5971faddd27a56d6e7b046421ef822904d8e79c1[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 21:08:35 2016 +0000
+
+    test
+
+[33mcommit 008dfa7b08d451c5d684ec307258b6090e16d9ba[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 21:05:08 2016 +0000
+
+    hello world test
+
+[33mcommit 69cca82c9b7f3ef3a6dcf08223a1b86ae6e52db1[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Mon Feb 15 20:59:16 2016 +0000
+
+    hello world test
+
+[33mcommit 98b43f57384b1c050b9c3ed8101eeb1dfe2c835f[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Sun Feb 14 22:07:01 2016 +0000
+
+    hilite?
+
+[33mcommit fef9bd640268fdf8af26bc99463e328cba7eb2e1[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Sun Feb 14 21:48:23 2016 +0000
+
+    linked movie title
+
+[33mcommit 41bf7972dec6a693f5ce93df072660580a0bfd41[m
+Author: Yang Yu <yangyu@berkeley.edu>
+Date:   Sun Feb 14 02:54:18 2016 +0000
+
+    database schema
+
+[33mcommit acd6bb2bbdbbe808b22c126ddfa908cf8f41f11d[m
+Merge: dace648 631f137
+Author: Armando Fox <fox@cs.berkeley.edu>
+Date:   Mon Nov 9 04:49:10 2015 -0800
+
+    Merge pull request #5 from patmbolger/add-root-route
+    
+    added root route
+
+[33mcommit 631f13738d220bd093579cfdcce9ef6ec10a5f56[m
+Author: Patrick Bolger <patmbolger@gmail.com>
+Date:   Mon Nov 9 07:40:51 2015 -0500
+
+    added root route
+
+[33mcommit dace64846f2b293cc2e2461d323539e881fac923[m
+Merge: dd61964 a359297
+Author: Armando Fox <fox@cs.berkeley.edu>
+Date:   Thu Oct 15 09:11:13 2015 -0700
+
+    Merge pull request #2 from tansaku/master
+    
+    Update Gemfile
+
+[33mcommit a3592979bfda85383aae53ea993e245379e26e0b[m
+Author: Sam Joseph <tansaku@gmail.com>
+Date:   Tue Sep 29 15:29:33 2015 +0100
+
+    Update Gemfile
+
+[33mcommit dd619646ef5737dd974f2cfde1a599ee69d002c3[m
+Author: Armando Fox <fox@cs.berkeley.edu>
+Date:   Fri Aug 28 16:09:42 2015 -0700
+
+    lock Ruby to 2.2.2 in Gemfile
+
+[33mcommit d8d8098dbb8a4a08c89f7ba781cac11640ae7fb0[m
+Author: Armando Fox <fox@cs.berkeley.edu>
+Date:   Sat Aug 8 19:35:23 2015 -0700
+
+    skeleton ready
+
+[33mcommit f3d6e1e8552651a12be88faac7c133649ded1b71[m
+Author: Armando Fox <fox@cs.berkeley.edu>
+Date:   Sat Aug 8 19:30:05 2015 -0700
+
+    added Haml, resourceful routes
+
+[33mcommit 2d813348035b8d87eb4a30e0b73d8dd1b67abcbe[m
+Author: Armando Fox <fox@cs.berkeley.edu>
+Date:   Sat Aug 8 19:24:10 2015 -0700
+
+    adding base files from rottenpotatoes app
+
+[33mcommit 49bf4c4af62a4663753b10a80da1f60ceaaeb607[m
+Author: Armando Fox <fox@cs.berkeley.edu>
+Date:   Sat Aug 8 19:17:58 2015 -0700
+
+    Version usable with hw-rails-intro
