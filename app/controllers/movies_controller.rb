@@ -15,20 +15,27 @@ class MoviesController < ApplicationController
     @movies = Movie.all
     
     @all_ratings = Movie.uniq.pluck(:rating)
-    @ratings_keys = []
+    @ratings_keys = @all_ratings
+    
     if params[:ratings]
       @ratings_keys = params[:ratings].keys
-      @movies = Movie.where(:rating => @ratings_keys)
-    else
-      @ratings_keys = @all_ratings
+      session[:ratings] = @ratings_keys
+    end
+    
+    if params[:sorted]
+      @sorted = params[:sorted]
+      session[:sorted] = @sorted
     end
     
     
-    if (params[:sorted] == "title")
-      @sorted = params[:sorted]
+    if session[:ratings]
+      @ratings_keys = session[:ratings]
+      @movies = Movie.where(:rating => @ratings_keys)
+    end
+    
+    if (session[:sorted] == "title")
       @movies = @movies.order(:title)
-    elsif (params[:sorted] == "date")
-      @sorted = params[:sorted]
+    elsif session[:sorted] == "date"
       @movies = @movies.order(:release_date)
     end
     
